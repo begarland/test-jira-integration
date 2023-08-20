@@ -1,0 +1,11 @@
+{
+  "name": "test-jira-integration",
+  "version": "1.0.0",
+  "description": "this repo is to test the jira integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
